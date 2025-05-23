@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnonymousLoner56
-- 👀 I’m interested in cybersecurity and backend operations
+- 👀 I’m interested in cybersecurity and backend operations, and also a bit of frontend design i.e web design
 - 🌱 I’m currently learning pentesting and cryptography
 - 📫 How to reach me .find me on github
 - 😄 Pronouns: He
